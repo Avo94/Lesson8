@@ -16,7 +16,6 @@ else if (taskNumber == 2) {
   if (inputNumber > 0) {
     inputNumber = inputNumber * 2;
   }
-
   console.log("Итоговое значение: " + inputNumber);
 }
 
